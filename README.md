@@ -2,4 +2,4 @@ Github Basics
 
 remote repo to help test out github skills
 
-[I'm learning this on lynda.com](lynda.com)
+[I'm learning this on lynda.com](http://www.lynda.com)
